@@ -27,9 +27,16 @@
 // console.log(myPromise==frienPromise)
 
 
-const didStudy= true;
+// const didStudy= true;
  
-console.log( didStudy!==false)
+// console.log( didStudy!==false)
+
+
+
+ 
+ 
+// console.log( 10==10)
+console.log( 10=='10')
 
 
 
