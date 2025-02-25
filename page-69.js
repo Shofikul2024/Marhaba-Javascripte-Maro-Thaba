@@ -22,9 +22,14 @@
 
 
 
-const myPromise = true;
-const frienPromise = ;
-console.log(myPromise==frienPromise)
+// const myPromise = true;
+// const frienPromise = ;
+// console.log(myPromise==frienPromise)
+
+
+const didStudy= true;
+ 
+console.log( didStudy!==false)
 
 
 
