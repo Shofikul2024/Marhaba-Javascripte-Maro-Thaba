@@ -9,13 +9,18 @@
 
 
 
+// if (13<10) {
+
+//     console.log("i am small . i do not  bite ");
+// }
+
 if (13<10) {
 
-    console.log("i am small . i do not  bite ");
+    console.log(" Smaller but stronger ");
 }
 
-
-console.log(" this condition is false ");
+console.log(" jehetu condition false  tai   , condition ar majer  part toko output   dekhabe na ")
+ 
 
 
 
