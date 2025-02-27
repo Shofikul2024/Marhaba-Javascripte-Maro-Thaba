@@ -29,11 +29,19 @@
 
 
 
+// const biriyaniPrice =500 ;
+// if (biriyaniPrice<300)  {
+// console.log (" mama gige me some biryani ")
+
+// }
+
+// console.log("jehetu condition vul tai if ar majer   part tokop dekhabe na ")
+
 const biriyaniPrice =500 ;
-if (biriyaniPrice<300)  {
+if (biriyaniPrice<600)  {
 console.log (" mama gige me some biryani ")
 
 }
 
-console.log("jehetu condition vul tai if ar majer   part tokop dekhabe na ")
+// console.log("jehetu condition vul tai if ar majer   part tokop dekhabe na ")
 
