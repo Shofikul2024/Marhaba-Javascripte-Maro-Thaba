@@ -1,5 +1,5 @@
 const rainingOutsode=true ;
-if (biriyaniPrice<600)  {
-console.log (" mama gige me some biryani ")
+if (rainingOutsode==true)  {
+console.log (" you and me under the tre")
 
 }
