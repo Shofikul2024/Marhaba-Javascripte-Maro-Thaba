@@ -29,12 +29,27 @@
 
 
 
-const weight =10 ;
-if (weight> 20)
+// const weight =10 ;
+// if (weight> 20)
 
-    {
+//     {
 
-        console.log(" Rickshaw mama  cholo jai ")
-    }
+//         console.log(" Rickshaw mama  cholo jai ")
+        
+//     }
 
-    console.log( " kono riksha vara kora lagbe na ")
+// else {
+
+//     console.log( " kono riksha vara kora lagbe na ")
+// }
+
+
+
+
+let weight = 50 ;
+ if ( weight > 20 )
+ {
+
+console.log(" riksha vara korte hobe karon   ato poriman  weight   niye jete  parbona ")
+ }
+ 
