@@ -46,10 +46,15 @@
 
 
 
-let weight = 50 ;
+let weight = 10 ;
  if ( weight > 20 )
  {
 
 console.log(" riksha vara korte hobe karon   ato poriman  weight   niye jete  parbona ")
  }
+else{
+
  
+console.log("  jehetu  weight ak   dom kom tai  kade  kore   niye jabo .  walking is Exercising")
+
+}
