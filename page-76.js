@@ -29,10 +29,12 @@
 
 
 
-const weight =40 ;
+const weight =10 ;
 if (weight> 20)
 
     {
 
         console.log(" Rickshaw mama  cholo jai ")
     }
+
+    console.log( " kono riksha vara kora lagbe na ")
