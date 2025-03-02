@@ -58,3 +58,4 @@ else{
 console.log("  jehetu  weight ak   dom kom tai  kade  kore   niye jabo .  walking is Exercising")
 
 }
+
