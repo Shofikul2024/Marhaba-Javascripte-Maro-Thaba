@@ -21,3 +21,9 @@
 const friends = ['balam ','kalam ' ,' salam' , 'shofikul' ,'kabir '  , 'rasel ' , 'kalam']
 friends.pop()
 console.log(friends) 
+friends.pop()
+console.log(friends) 
+friends.push('sanjana ')
+console.log(friends) 
+friends.push('saima  ')
+console.log(friends) 
