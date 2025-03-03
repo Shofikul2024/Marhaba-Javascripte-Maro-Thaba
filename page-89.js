@@ -67,20 +67,47 @@
 //  price = price+100 ;
 // }
 
+// // console.log(price)
+
+// //   generally amr  jevabe solution kore thaki 
+// //   akhane jokhon condisition  false orthad  isLeader  false  tokhon   price    600 dekhaben 
+//  let price  = 500 ;
+//  let isLeader=false
+//  if(isLeader === true){
+// price = 0;
+
+
+//  }
+
+//  else  {
+//  price = price+100 ;
+// }
+
 // console.log(price)
 
-//   generally amr  jevabe solution kore thaki 
-//   akhane jokhon condisition  false orthad  isLeader  false  tokhon   price    600 dekhaben 
- let price  = 500 ;
- let isLeader=false
- if(isLeader === true){
-price = 0;
+
+//   ternary operator  diye solution 
 
 
- }
+// price =isLeader===true ? 0:console.log(price );
+// // console.log(price)
 
- else  {
- price = price+100 ;
-}
 
-console.log(price)
+
+
+// //   jokhon condisition  false orthad  vul    thakbe tokhon  output a  600  dekhaben . aita ternary operator diye solution kora holo 
+// let price =500 ;
+// let isLeader =false ;
+// price =isLeader===true ?0:price+100
+// console.log(price )
+
+
+
+
+//   jokhon condisition  true orthad   condisition 
+//  ta  variable  declear korar somoy jeita declear kora hoice oi  condisition ar sathe
+// mile giyece 
+let price =500 ;
+let isLeader =true;
+price =isLeader===true ?0:price+100
+console.log(price )
