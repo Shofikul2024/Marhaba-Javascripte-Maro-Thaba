@@ -28,7 +28,12 @@
 // jokhon array ar maje upadan thake na  but amt taw jode  
 //  khoje ber korte chi tobe  output    undefined asbe  
         
-const numbers = [1,2,3,4,5,6,7,8,9]
+// const numbers = [1,2,3,4,5,6,7,8,9]
 
-console.log(numbers[1])
+// console.log(numbers[1])
 
+
+
+const numbers =[ 10,25,26,31,42,84,38,12,1]
+const fourth  = numbers[7]
+console.log(fourth)
