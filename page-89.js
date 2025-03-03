@@ -43,5 +43,44 @@
 
 //  ternary operator use kore short vabe  solution kora holo 
 
-const age = 18
-age >= 18 ? console.log(" Eligible , you can get the vut ") : console.log("you can not get vute . not Eligible ")
+// const age = 18
+// age >= 18 ? console.log(" Eligible , you can get the vut ") : console.log("you can not get vute . not Eligible ")
+ 
+
+
+// const age = 18 ;
+// age>=18 ? console.log(" you can get the vut ") : console.log("not voter")
+
+
+
+// //   generally amr  jevabe solution kore thaki 
+// //   akhane jokhon condisition  true  hobe orthad  isLeader true tokhon   price ar man true dekhabe 
+//  let price  = 500 ;
+//  let isLeader=true
+//  if(isLeader === true){
+// price = 0;
+
+
+//  }
+
+//  else  {
+//  price = price+100 ;
+// }
+
+// console.log(price)
+
+//   generally amr  jevabe solution kore thaki 
+//   akhane jokhon condisition  false orthad  isLeader  false  tokhon   price    600 dekhaben 
+ let price  = 500 ;
+ let isLeader=false
+ if(isLeader === true){
+price = 0;
+
+
+ }
+
+ else  {
+ price = price+100 ;
+}
+
+console.log(price)
