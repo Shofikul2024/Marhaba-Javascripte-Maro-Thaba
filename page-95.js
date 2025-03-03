@@ -49,6 +49,8 @@
 // numbers[ 4]= 100.100
 // console.log(numbers)
  
+
+// array te new element set korar rules 
 const numbers = [ 10,25,26,31,42,84,38,12,1]
 
 numbers[ 4]= 100.100
