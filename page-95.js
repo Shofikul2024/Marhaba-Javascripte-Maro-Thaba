@@ -41,3 +41,8 @@
 // const numbers =[ 10,25,26,31,42,84,38,12,1]
 // numbers[4] = 100 
 // console.log(numbers)
+
+const numbers = [ 10,25,26,31,42,84,38,12,1]
+
+numbers[ 4]= 100.100
+console.log(numbers)
