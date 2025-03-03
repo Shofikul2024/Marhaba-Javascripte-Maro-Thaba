@@ -6,6 +6,12 @@
 // numbers.push (44 ,65,98,11,9)
 // console.log(numbers)
 
+// const friends = [ 'balam ' , 'kalam '  , ' salam']
+// friends.push('shofikul')
+// console.log(friends)
+
+
+
 const friends = [ 'balam ' , 'kalam '  , ' salam']
-friends.push('shofikul')
+friends.push('shofikul' ,'kabir '  , 'rasel ' , 'kalam')
 console.log(friends) 
