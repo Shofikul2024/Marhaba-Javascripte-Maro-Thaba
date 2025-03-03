@@ -34,6 +34,10 @@
 
 
 
-const numbers =[ 10,25,26,31,42,84,38,12,1]
-const fourth  = numbers[7]
-console.log(fourth)
+// const numbers =[ 10,25,26,31,42,84,38,12,1]
+// const fourth  = numbers[7]
+// console.log(fourth)
+
+// const numbers =[ 10,25,26,31,42,84,38,12,1]
+// numbers[4] = 100 
+// console.log(numbers)
