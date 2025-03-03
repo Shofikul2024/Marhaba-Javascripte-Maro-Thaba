@@ -12,6 +12,12 @@
 
 
 
-const friends = [ 'balam ' , 'kalam '  , ' salam']
-friends.push('shofikul' ,'kabir '  , 'rasel ' , 'kalam')
+// const friends = [ 'balam ' , 'kalam '  , ' salam']
+// friends.push('shofikul' ,'kabir '  , 'rasel ' , 'kalam')
+// console.log(friends) 
+
+
+
+const friends = ['balam ','kalam ' ,' salam' , 'shofikul' ,'kabir '  , 'rasel ' , 'kalam']
+friends.pop()
 console.log(friends) 
