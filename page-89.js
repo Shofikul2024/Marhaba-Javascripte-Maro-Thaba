@@ -107,6 +107,15 @@
 //   jokhon condisition  true orthad   condisition 
 //  ta  variable  declear korar somoy jeita declear kora hoice oi  condisition ar sathe
 // mile giyece 
+
+
+
+
+// let price =500 ;
+// let isLeader =true;
+// price =isLeader===true ?0:price+100
+// console.log(price )
+
 let price =500 ;
 let isLeader =true;
 price =isLeader===true ?0:price+100
