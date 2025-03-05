@@ -15,6 +15,19 @@
 
 
 
+// const salary =25001;
+// const height =68;
+// if ( salary > 25000 || height>72){
+
+//     console.log("bolo baba kobul")  ;
+// }
+// else{
+
+//     console.log(" vaag tui mukbul ")
+// }
+
+
+
 const salary =25001;
 const height =68;
 if ( salary > 25000 || height>72){
