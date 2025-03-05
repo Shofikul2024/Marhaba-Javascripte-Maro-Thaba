@@ -32,3 +32,6 @@
 const friends =[  'balam ' ,  ' kalam '  ,  'salam' ,  'gelam ' ,   'pailam ']
 friends.shift()
 console.log(friends)
+// const friends =[  'balam ' ,  ' kalam '  ,  'salam' ,  'gelam ' ,   'pailam ']
+// friends.shift()
+// console.log(friends)
