@@ -64,9 +64,14 @@
 
 
 
-/* akhane  output dekhaben  4  karon 4  nomber index a   paiam ace    */
+
+
+/* akhane  output dekhaben  balam   karon  shift ar kaj  holo je 1 st 
+  // index ar value take delet korbe    and  1 st index ta ke delet kore  storeValue 
+  // namok variable ar maje rekhe diyeci      */
+
 const friends = [  'balam' ,  'kalam'  ,  'salam' ,  'gelam' ,   'pailam'] ;
- const index  =friends.indexOf('pailam') ;
-console.log(index)
+ const storeValue   =friends.shift('shofikul') ;
+console.log(storeValue)
 
  
