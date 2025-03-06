@@ -55,9 +55,16 @@
 
 
 
+// /* akhane  output dekhaben 3 karon 3  nomber index a   gelam ace    */
+// const friends = [  'balam' ,  'kalam'  ,  'salam' ,  'gelam' ,   'pailam'] ;
+//  const index  =friends.indexOf('gelam') ;
+// console.log(index)
+
+ 
+
 /* akhane  output dekhaben 3 karon 3  nomber index a   gelam ace    */
 const friends = [  'balam' ,  'kalam'  ,  'salam' ,  'gelam' ,   'pailam'] ;
- const index  =friends.indexOf('gelam') ;
+ const index  =friends.indexOf('pailam') ;
 console.log(index)
 
  
