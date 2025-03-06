@@ -62,7 +62,9 @@
 
  
 
-/* akhane  output dekhaben 3 karon 3  nomber index a   gelam ace    */
+
+
+/* akhane  output dekhaben  4  karon 4  nomber index a   paiam ace    */
 const friends = [  'balam' ,  'kalam'  ,  'salam' ,  'gelam' ,   'pailam'] ;
  const index  =friends.indexOf('pailam') ;
 console.log(index)
