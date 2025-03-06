@@ -77,10 +77,18 @@
 
 
  
-/* akhane    1 st a value add korben  unshift ar kaj ee holo  suru te   value add korben      */
+// /* akhane    1 st a value add korben  unshift ar kaj ee holo  suru te   value add korben      */
+
+// const friends = ['balam' ,  'kalam'  ,  'salam' ,  'gelam' ,   'pailam'] ;
+// friends.unshift('shofikul') ;
+// console.log(friends)
+
+ 
+ 
+/* akhane    1 st a value add korben  shift ar kaj ee holo  suru  theke value   delet korben      */
 
 const friends = ['balam' ,  'kalam'  ,  'salam' ,  'gelam' ,   'pailam'] ;
-friends.unshift('shofikul') ;
+friends.shift() ;
 console.log(friends)
 
  
