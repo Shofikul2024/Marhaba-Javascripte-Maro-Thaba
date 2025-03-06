@@ -70,8 +70,17 @@
   // index ar value take delet korbe    and  1 st index ta ke delet kore  storeValue 
   // namok variable ar maje rekhe diyeci      */
 
-const friends = [  'balam' ,  'kalam'  ,  'salam' ,  'gelam' ,   'pailam'] ;
- const storeValue   =friends.shift('shofikul') ;
-console.log(storeValue)
+// const friends = [  'balam' ,  'kalam'  ,  'salam' ,  'gelam' ,   'pailam'] ;
+//  const deleteValue=friends.shift('shofikul') ;
+// console.log(deleteValue)
+
+
+
+ 
+/* akhane    1 st a value add korben  unshift ar kaj ee holo  suru te   value add korben      */
+
+const friends = ['balam' ,  'kalam'  ,  'salam' ,  'gelam' ,   'pailam'] ;
+friends.unshift('shofikul') ;
+console.log(friends)
 
  
