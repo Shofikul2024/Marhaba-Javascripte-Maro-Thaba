@@ -35,10 +35,23 @@
 
 
 
-const isPassed =true;
-if (!isPassed){
+// const isPassed =true;
+// if (!isPassed){
 
-    console.log("ajke amer  khawya dawya bondho")
-}
+//     console.log("ajke amer  khawya dawya bondho")
+// }
 
-console.log("ajke amer  valo gift ace ")
+// console.log("ajke amer  valo gift ace ")
+
+
+
+
+
+
+// const isPassed =true;
+// if (!isPassed){
+
+//     console.log("ajke amer  khawya dawya bondho")
+// }
+
+// console.log("ajke amer  valo gift ace ")
