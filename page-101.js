@@ -85,10 +85,23 @@
 
  
  
-/* akhane    1 st a value add korben  shift ar kaj ee holo  suru  theke value   delet korben      */
+// /* akhane    1 st a value add korben  shift ar kaj ee holo  suru  theke value   delet korben      */
 
-const friends = ['balam' ,  'kalam'  ,  'salam' ,  'gelam' ,   'pailam'] ;
-friends.shift() ;
-console.log(friends)
+// const friends = ['balam' ,  'kalam'  ,  'salam' ,  'gelam' ,   'pailam'] ;
+// friends.shift() ;
+// console.log(friends)
+
+ 
+
+
+
+
+
+ 
+// /* akhane    1 st a value add korben  shift ar kaj ee holo  suru  theke value   delet korben      */
+
+// const friends = ['balam' ,  'kalam'  ,  'salam' ,  'gelam' ,   'pailam'] ;
+// friends.shift() ;
+// console.log(friends)
 
  
