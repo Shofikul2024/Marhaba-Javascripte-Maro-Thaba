@@ -8,6 +8,28 @@
 
 
 
+// const  numbers = [ 12,98,45,63,21,72];
+// for (const num of numbers ){
+
+//     console.log(num)
+// }
+
+
+
+
+
+
+
+
+
+const friends = ['balam' ,  'kalam'  ,  'salam' ,  'gelam' ,   'pailam'] ;
+for( const friendnumber of friends) {
+    console.log(friendnumber)
+    
+}
+
+
+
 //   array theke   sob goli  element ke pawyer jonno 
 // console.log(numbers)  dite hobe 
 
@@ -56,7 +78,7 @@ console.log(friends )  dite hobe  tobe sob goli  value pabo
 //  dorker oi index a  ke akhanwe bole   dibo 
 // */
 
-const friends = ['shofikul' , 'karim'  , 'rahim' , 'jakir' ];
+// const friends = ['shofikul' , 'karim'  , 'rahim', 'jakir' ];
 
 
-console.log(friends[3])
+// console.log(friends[3])
