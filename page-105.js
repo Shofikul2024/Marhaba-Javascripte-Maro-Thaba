@@ -16,6 +16,8 @@
 // }  
 
 
+// 105  page ar problem solving 
+
 const subjects = ['bangla' , 'english', 'math', 'science']
 for (const sub of subjects) 
 {
