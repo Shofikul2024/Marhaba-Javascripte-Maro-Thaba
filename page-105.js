@@ -9,8 +9,16 @@
 //     console.log(item)
 // }
 
-const fruitItems =['orange' , 'apple' , 'banana', 'jackfruit' , 'watermalon','beli']
-for (const item of fruitItems){
+// const fruitItems =['orange' , 'apple' , 'banana', 'jackfruit' , 'watermalon','beli']
+// for (const item of fruitItems){
 
-    console.log(item)
-}  
+//     console.log(item)
+// }  
+
+
+const subjects = ['bangla' , 'english', 'math', 'science']
+for (const sub of subjects) 
+{
+
+    console.log(sub)
+}
