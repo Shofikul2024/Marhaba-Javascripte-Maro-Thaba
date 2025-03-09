@@ -45,7 +45,7 @@
 // {
 
 //     console.log(number)
-//     Number=number+1
+//     number=number+1
 // }
 
 
@@ -53,10 +53,23 @@
 
 
 
-let number =0 ;
+// let number =0 ;
 
-while(number<=100)
+// while(number<=100)
+// {
+//     console.log(number)
+//      number=number+1
+// }
+
+
+
+
+let number =1 ;
+
+while(number<=50)
 {
     console.log(number)
      number=number+1
 }
+
+
