@@ -25,11 +25,38 @@
 
 
 
+//  1 theke 99 porjonto print koro while loop  use kore   
+
+
+// let number =0 ;
+// while (number<100)
+// { 
+
+//     console.log(number)
+//     number=number+1
+// }
+
+
+// //  1 theke 100 porjonto print koro while loop  use kore   
+
+// let number =0 ;
+
+// while (number<=100)
+// {
+
+//     console.log(number)
+//     Number=number+1
+// }
+
+
+
+
+
 
 let number =0 ;
-while (number<100)
-{ 
 
+while(number<=100)
+{
     console.log(number)
-    number=number+1
+     number=number+1
 }
