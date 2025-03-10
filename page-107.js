@@ -63,6 +63,18 @@
 
 
 
+// 1 theke   50 porjonto number  goli print koro 
+// let number =1 ;
+
+// while(number<=50)
+// {
+//     console.log(number)
+//      number=number+1
+// }
+
+
+
+
 
 let number =1 ;
 
