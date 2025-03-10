@@ -75,6 +75,8 @@
 
 
 
+// 
+// 1 theke   50 porjonto odd  number  goli print koro 
 
 let number =1 ;
 
