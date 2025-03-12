@@ -23,4 +23,23 @@ const computer= {
  const keys =Object.keys(computer) ;
  
  console.log(keys) ;
-  
+
+
+
+/*
+
+
+ const profile={
+name :'rahim ', 
+age:'28', 
+city:'Dhaka '
+};
+const profileKeys=Object.keys(profile) ;
+const hasName =profileKeys.includes('name')
+console.log(hasName)
+
+
+
+
+
+*/
