@@ -12,9 +12,11 @@ const computer= {
 
 
 
+  
+
 // added new code trial practice 
 
-const computer= { 
+/*const computer= { 
    brand :'lenovo', 
  price :36000, 
  processor: 'intel', 
@@ -23,9 +25,6 @@ const computer= {
  const keys =Object.keys(computer) ;
  
  console.log(keys) ;
-
-
-
 /*
 
 
