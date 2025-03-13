@@ -12,7 +12,7 @@ const computer= {
 
 
 
-  
+
 
 // added new code trial practice 
 
@@ -55,3 +55,17 @@ const profileKeys=Object.keys(profile) ;
 const hasName =profileKeys.includes('name')
 console.log(hasName)
 */
+
+
+
+const profile={
+name :'rahim ', 
+age:'28', 
+city:'Dhaka '
+};
+const profileKeys=Object.keys(profile) ;
+const hasName =profileKeys.includes('name')
+console.log(hasName)
+
+
+
