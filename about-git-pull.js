@@ -7,4 +7,11 @@ hoy
 */ 
 
 
+/*   
+
 git add .
+git commit -m "Marhaba-Javascripte-Maro-Thaba ,added  132 page "
+git push 
+
+
+*/
