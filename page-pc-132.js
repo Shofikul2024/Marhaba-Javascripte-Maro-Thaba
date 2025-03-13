@@ -8,3 +8,6 @@ const computer= {
   
   console.log(keys) ;
   
+
+
+  // this is my practice  code 
