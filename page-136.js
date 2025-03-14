@@ -1,19 +1,22 @@
-const profile = {
-
-    name :"rahim" ,
-    age: 28 ,
- city :"dhaka" 
-
-} ;
 
 
-for (const key in profile){
 
-const value= profile[key] ;
-console.log(key,value);
+// const profile = {
+
+//     name :"rahim" ,
+//     age: 28 ,
+//  city :"dhaka" 
+
+// } ;
+
+
+// for (const key in profile){
+
+// const value= profile[key] ;
+// console.log(key,value);
  
 
-}
+// }
 
 
 /*
@@ -52,3 +55,7 @@ console.log(key,value);
 
 // }
 
+
+
+
+console .log('shofikul islam')
