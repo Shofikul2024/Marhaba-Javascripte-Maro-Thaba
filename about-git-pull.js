@@ -15,3 +15,19 @@ git push
 
 
 */
+
+
+
+/*
+বাংলা লিখার জন  F12 press korte hoy 
+
+ তারপ
+ তারপর জধি  ই
+
+ tarpor jode english likte chai  tobe again  F12   press 
+ korte  hobe 
+
+
+*/
+
+

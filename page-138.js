@@ -5,6 +5,9 @@
 
 // };
 
+
+
+
 // delete person.age
 // console.log(person)
 

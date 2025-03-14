@@ -18,4 +18,4 @@ console.log(cricketer['position']);
 
 
 
-//ai file ta agei upload. kora. hoyecilo. akhon aber upload dilam trial korar jonno
+//ai file ta agei upload  kora  hoyecilo. akhon aber upload dilam trial korar jonno
