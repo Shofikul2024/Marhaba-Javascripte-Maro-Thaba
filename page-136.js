@@ -25,8 +25,30 @@ console.log(key,value);
 
 
  git add .
+ git commit -m "Marhaba-Javascripte-Maro-Thaba ,added  132 page "
+ git push 
 
 
- 
+
+
 
 */
+
+
+// const profile = {
+
+//     name :"rahim" ,
+//     age: 28 ,
+//  city :"dhaka" 
+
+// } ;
+
+
+// for (const key in profile){
+
+// const value= profile[key] ;
+// console.log(key,value);
+ 
+
+// }
+
