@@ -26,3 +26,8 @@
 
 const digitNumber = 11;
 console.log(digitNumber)
+
+
+
+// const digitNumber = 11;
+// console.log(digitNumber)
