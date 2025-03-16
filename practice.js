@@ -1,17 +1,17 @@
-const cricketer={
-  position: 4, 
-  specially: 'batter', 
-  age : 24, 
+// const cricketer={
+//   position: 4, 
+//   specially: 'batter', 
+//   age : 24, 
   
-  runs: 8000,
-  } ;
-console.log(cricketer.position);
-console.log(cricketer['runs']);
-  cricketer.position=1 ;
-cricketer['run']=9000 ;
+//   runs: 8000,
+//   } ;
+// console.log(cricketer.position);
+// console.log(cricketer['runs']);
+//   cricketer.position=1 ;
+// cricketer['run']=9000 ;
 
-console.log(cricketer['position']);
- console.log(cricketer.runs);
+// console.log(cricketer['position']);
+//  console.log(cricketer.runs);
 
 
 
@@ -41,3 +41,13 @@ console.log(cricketer['position']);
 
 
 //ai file ta agei upload  kora  hoyecilo. akhon aber upload dilam trial korar jonno
+
+
+
+for (i= 0; i<=10 ; i++)
+{
+
+  console.log(i)
+
+
+}

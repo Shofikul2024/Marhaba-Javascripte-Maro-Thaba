@@ -10,3 +10,7 @@ console.log(discountPrice)
 // const newPrice =price+50;
 // const discountPrice =newPrice -10;
 // console.log(discountPrice)
+
+
+
+
