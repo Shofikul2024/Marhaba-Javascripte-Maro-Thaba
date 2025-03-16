@@ -85,6 +85,23 @@ console.log(friends )  dite hobe  tobe sob goli  value pabo
 
 
 
+
+
+
+
+// /*  array theke   je kono akti  element ke pawyer jonno 
+// console.log(friends [3])  dite hobe  jei index ar  value
+//  dorker oi index a  ke akhanwe bole   dibo 
+// */
+
+// const friends = ['shofikul' , 'karim'  , 'rahim', 'jakir' ];
+
+
+// console.log(friends[3])
+
+
+
+
 // /*  array theke   je kono akti  element ke pawyer jonno 
 // console.log(friends [3])  dite hobe  jei index ar  value
 //  dorker oi index a  ke akhanwe bole   dibo 
