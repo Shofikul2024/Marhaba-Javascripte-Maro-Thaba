@@ -54,8 +54,17 @@ console.log(cricketer['position']);
 
 
 
-// /print odd number 
-for (i= 1; i<=10 ; i=i+2)
+// // /print odd number 
+// for (i= 1; i<=10 ; i=i+2)
+// {
+
+//   console.log(i)
+
+
+// }
+
+// /print even number 
+for (i= 2; i<=10 ; i=i+2)
 {
 
   console.log(i)
