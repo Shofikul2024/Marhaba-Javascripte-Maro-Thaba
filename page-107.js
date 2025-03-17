@@ -99,3 +99,19 @@
 //      number=number+2
 // }
 
+
+
+
+
+
+// 1 theke   50 porjonto even  number  goli print koro 
+
+
+let number =2 ;
+
+while(number<=50)
+{
+    console.log(number)
+     number=number+2
+}
+
