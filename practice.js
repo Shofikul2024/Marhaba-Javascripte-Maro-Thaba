@@ -63,6 +63,19 @@ console.log(cricketer['position']);
 
 // }
 
+// // /print even number 
+// for (i= 2; i<=10 ; i=i+2)
+// {
+
+//   console.log(i)
+
+
+// }
+
+
+
+
+
 // /print even number 
 for (i= 2; i<=10 ; i=i+2)
 {
