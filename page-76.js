@@ -46,16 +46,26 @@
 
 
 
-let weight = 10 ;
- if ( weight > 20 )
- {
+// let weight = 10 ;
+//  if ( weight > 20 )
+//  {
 
-console.log(" riksha vara korte hobe karon   ato poriman  weight   niye jete  parbona ")
- }
-else{
+// console.log(" riksha vara korte hobe karon   ato poriman  weight   niye jete  parbona ")
+//  }
+// else{
 
  
-console.log("  jehetu  weight ak   dom kom tai  kade  kore   niye jabo .  walking is Exercising")
+// console.log("  jehetu  weight ak   dom kom tai  kade  kore   niye jabo .  walking is Exercising")
 
+// }
+
+
+
+let weight =5 ;
+if(weight>10 ) {
+
+    console.log('condisition is true')
 }
-
+else{
+    console.log('this condition is false')
+}
