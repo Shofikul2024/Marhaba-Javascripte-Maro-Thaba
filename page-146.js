@@ -43,4 +43,17 @@ function square(number) {
 //     }
 //     square(45) ;
 //     square(16) ;
-    
+
+
+
+/*
+abcdefghijklmnopqrstuvwxyz  .
+abcdefghijklmnopqrstuvwxyz.
+abcdefghijklmnopqrstuvwxyz 
+
+
+
+*/
+
+
+
