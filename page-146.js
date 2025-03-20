@@ -36,3 +36,11 @@ function square(number) {
     square(45) ;
     square(16) ;
     
+// function square(number) {
+//     const borgo=number*number 
+//     console.log('square of' ,number , 'is' ,borgo) 
+    
+//     }
+//     square(45) ;
+//     square(16) ;
+    
