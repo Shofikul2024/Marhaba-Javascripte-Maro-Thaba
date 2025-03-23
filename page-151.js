@@ -30,5 +30,5 @@ function add (price1,price2) {
 
 }
 
-constm bill=add(5,8)
+const bill=add(5,8)
 console.log(bill)
