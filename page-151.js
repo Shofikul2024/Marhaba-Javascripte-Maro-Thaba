@@ -23,6 +23,16 @@
 
 
 
+// function add (price1,price2) {
+
+//     const total =price1+price2 ;
+//     return total  ;
+
+// }
+
+// const bill=add(5,8)
+// console.log(bill)
+
 function add (price1,price2) {
 
     const total =price1+price2 ;
@@ -30,5 +40,5 @@ function add (price1,price2) {
 
 }
 
-const bill=add(5,8)
+const bill=add(10,20)
 console.log(bill)
