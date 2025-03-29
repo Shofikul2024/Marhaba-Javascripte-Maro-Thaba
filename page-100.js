@@ -21,7 +21,7 @@ console.log(exist)
 //array te jode kono upadan thake tobe output  true dekhabe
 
 const friends = [  'balam' ,  'kalam'  ,  'salam' ,  'gelam' ,   'pailam'] ;
- const exist  =friends.includes('khilam') ;
+ const exist  =friends.includes('balam') ;
 console.log(exist)
 
  
