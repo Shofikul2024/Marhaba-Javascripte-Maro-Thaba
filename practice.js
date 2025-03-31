@@ -125,3 +125,44 @@ sum = x+y ;
 
 console.log( sum );
 
+
+
+
+
+
+
+// /print even number 
+for (i= 2; i<=10 ; i=i+2)
+{
+
+  console.log(i)
+
+
+}
+
+
+
+
+
+
+
+
+
+function  add ( price1,  price2) {
+  const total = price1 + price2  ; 
+return  total ;
+}
+ const bill = add ( 5,300)  
+console.log( bill);
+
+
+
+let x = 90 ;
+let y = 20 ; 
+sum = x+y ; 
+
+
+console.log( sum );
+
+
+
