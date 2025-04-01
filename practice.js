@@ -207,3 +207,25 @@ console.log( sum );
 
 
 
+function  add ( price1,  price2) {
+  const total = price1 + price2  ; 
+return  total ;
+}
+ const bill = add ( 5,300)  
+console.log( bill);
+
+
+
+let x = 90 ;
+let y = 20 ; 
+sum = x+y ; 
+
+
+console.log( sum );
+
+
+
+
+
+//
+
