@@ -308,3 +308,9 @@ const getAge=(person)  =>person.age ;
 
 const age=getAge(student) ;
 console.log(age) ;
+
+
+https://www.facebook.com/61551029409914/posts/pfbid0SJT6oDDwjCBELATrAPkkQgiDMUCLDRiSJh1qNU1mLtNbT5sT3gEp7dh5JJDLNzeCl/?mibextid=CDWPTGconst add4 =  (num1,  num2, num3, num4) =>num1+num2+num3+num4; 
+
+const sum = add4 (5, 30, 4,6)
+console.log(sum);
