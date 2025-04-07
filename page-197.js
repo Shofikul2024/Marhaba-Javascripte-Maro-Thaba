@@ -11,5 +11,5 @@ const actor = {
 const name1 = actor.name ;
 console.log(name1)
 
-// const name = actor.name ;
-// console.log(name)
+const age1 = actor.age ;
+console.log(age1)
