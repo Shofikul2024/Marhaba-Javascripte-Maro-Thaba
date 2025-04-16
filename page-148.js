@@ -63,6 +63,20 @@
 
 
 
+// function addNumber (a,b) {
+// let sum =0 ;
+//  for ( const num of arguments) {
+
+// sum = sum +num ;
+//  }
+//  console.log(sum)
+
+//  }
+  
+// addNumber(5,8,9,6)
+
+
+
 function addNumber (a,b) {
 let sum =0 ;
  for ( const num of arguments) {
