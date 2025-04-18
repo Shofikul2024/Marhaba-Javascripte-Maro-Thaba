@@ -59,3 +59,23 @@ const age = actor.age ;
 const phone = actor.phone ;
 const money  = actor.money ;
  console.log( name ,  age , phone , money)
+
+
+
+
+
+ //  practice   
+// const actor = {
+
+//     name :'ananata' ,  
+//     age : 30  ,  
+//     phone :  '01746399687',  
+//     money:  123654789 ,  
+
+// };
+
+// const name = actor.name ;
+// const age = actor.age ;
+// const phone = actor.phone ;
+// const money  = actor.money ;
+//  console.log( name ,  age , phone , money)
