@@ -25,7 +25,7 @@
 
 
 
-// //  11 theke  20 porjonto nomber golir sum 
+// //  11 theke  20 porjonto nomber golir sum  
 // let sum = 0; 
 // for (i =11 ; i<=20; i++){
 
@@ -40,3 +40,11 @@ for (i =11 ; i<=20; i++){
     sum=sum+i
     console.log(sum)
 }
+
+// //  11 theke  20 porjonto nomber golir sum 
+// let sum = 0; 
+// for (i =11 ; i<=20; i++){
+
+//     sum=sum+i
+//     console.log(sum)
+// }
