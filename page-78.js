@@ -96,3 +96,16 @@ console.log("  valo ptro pawya jabe karon  salary    valo ace and chele BCS  to 
 else{
     console.log(" dure   giye moro . karon   tmr   ai salary   diue  kono kaj  hobe na ,  tmr aro valo salary paite hobe ")
 }
+
+
+// const salary  = 60000 ;
+// const isBCS  = true;
+
+// if ( salary >50000 && isBCS==true )
+// {
+// console.log("  valo ptro pawya jabe karon  salary    valo ace and chele BCS  to .practice korlam. ar akta bisoy holo je new  line a jete chile akhane enter   dewya jabe na  tahole syntax error dekhaben  . jokhon likha seh hobe tojhon   akai newline a jaben ")
+// }
+
+// else{
+//     console.log(" dure   giye moro . karon   tmr   ai salary   diue  kono kaj  hobe na ,  tmr aro valo salary paite hobe ")
+// }
