@@ -61,11 +61,20 @@
 
 
 
-let weight =5 ;
-if(weight>10 ) {
+// let weight =5 ;
+// if(weight>10 ) {
 
-    console.log('condisition is true')
-}
-else{
-    console.log('this condition is false')
-}
+//     console.log('condisition is true')
+// }
+// else{
+//     console.log('this condition is false')
+// }
+
+// let weight =5 ;
+// if(weight>10 ) {
+
+//     console.log('condisition is true')
+// }
+// else{
+//     console.log('this condition is false')
+// }
