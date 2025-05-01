@@ -26,7 +26,7 @@
 // const frienPromise = ;
 // console.log(myPromise==frienPromise)
 
-
+add
 // const didStudy= true;
  
 // console.log( didStudy!==false)

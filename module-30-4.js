@@ -20,7 +20,7 @@ console.log(result)
 
 /*
 //  mone  rakhte hobe  je  console.log   sob somoy second bracket ba scope {} ar    maje .function ke call korte hobe second bracket ba scope  ar  bahire .
-  
+
 
 // Normal function    practice  process
 
@@ -34,3 +34,17 @@ result = add (5,10)
 
 
 */
+
+
+
+
+
+
+ 
+
+// arrow   function 
+
+const add =(a,b) =>a+b ;
+ result = add(20,10)
+ 
+console.log (result)
