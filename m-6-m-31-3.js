@@ -35,4 +35,19 @@
 
 
 
-const
+
+
+
+
+//  practice 
+const  numbers = [ 4 ,5 ,2,8,10 ]
+const store =[]  ;
+for (const num of numbers)  {
+
+const  newArray=num*1 ;
+
+store.push(newArray)
+
+}
+
+console.log(store)
