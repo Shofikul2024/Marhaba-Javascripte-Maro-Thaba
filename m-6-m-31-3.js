@@ -1,0 +1,38 @@
+
+
+// const numbers =[ 4,5,2,8,10 ]
+// const doubled =[] ;
+
+// for ( const num of numbers ) {
+//     const double=num*2 ;
+
+// doubled.push(double)
+
+// }
+// console.log(doubled)
+
+
+
+
+
+
+
+
+
+//   practice 
+
+
+// const numbers =[ 4,5,2,8,10 ]
+// const doubled =[] ;
+
+// for ( const num of numbers ) {
+// const tripole =num*3
+// doubled.push(tripole)
+
+// }
+// console.log(doubled)
+
+
+
+
+const
