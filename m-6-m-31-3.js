@@ -73,14 +73,14 @@
 
 
 
-const  numbers = ([4 ,5 ,2,8,10 ])
-const store =[]  ;
-for (const num of numbers)  {
+// const  numbers = ([4 ,5 ,2,8,10 ])
+// const store =[]  ;
+// for (const num of numbers)  {
 
-// const  newArray=num*1 ;
+// // const  newArray=num*1 ;
 
-store.push(numbers)
+// store.push(numbers)
 
-}
+// }
 
-console.log(numbers)
+// console.log(numbers)
