@@ -35,36 +35,54 @@
 
 
 
-// //  console  log  ar somoy  jode  ai vave  koma  diye  likhi  tahole  aki line  a  sob  goli dekhabe . jemon console.log( name , age , money , phone )
-// //shofikul  30 142554665754  017463998687
-
-// name:'shofikul ',
-// age :30 ,
-// phone: ' 017463998687',
-// money:142554665754,
 
 
-// }
 
 
+// //  console  log  ar somoy  jode  ai vave  jemon console.log( name , age , money , phone )   koma  diye  likhi  tahole  aki line  a  sob 
+//  goli dekhabe   shofikul  30 142554665754  017463998687
+
+
+// const actor={
+
+//     name:'shofikul ',
+//     age : 30 ,
+//     phone: ' 017463998687',
+//     money:142554665754,
+    
+    
+//     }
+    
 // const { name ,age , phone , money  }  = actor
-// console.log( name , age , money , phone )
+ 
 
 
 
 
 
-//  console  log  ar somoy  jode  ai vave  koma  diye  likhi  tahole  aki line  a  sob  goli dekhabe . jemon console.log( name , age , money , phone )
-//shofikul  30 142554665754  017463998687
 
+
+
+ 
+
+/*
+const actor={
 name:'shofikul ',
-age :30 ,
+age : 30 ,
 phone: ' 017463998687',
 money:142554665754,
-
-
 }
+const { name ,age , phone , money  }  = actor  ;
+console.log( name) ;
+console.log( age) ;
+console.log(money) ;
+console.log( phone) ;
 
 
-const { name ,age , phone , money  }  = actor
-console.log( name , age , money , phone )
+//  aitar  jonno output  hobe    
+// shofikul 
+// 30
+// 142554665754
+//  017463998687
+
+*/
