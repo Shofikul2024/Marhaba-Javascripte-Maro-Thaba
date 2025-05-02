@@ -29,11 +29,11 @@
 // practice 
 
 
-function multiply (num1 , num2) {
-const result= num1*num2 ;
-return result
+// function multiply (num1 , num2) {
+// const result= num1*num2 ;
+// return result
 
-}
-result = multiply( 20,6)
+// }
+// result = multiply( 20,6)
 
-console.log(result)
+// console.log(result)
