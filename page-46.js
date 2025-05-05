@@ -4,6 +4,8 @@
 
 // practice 
 
-const first = 'Eid  '
-const second = ' Mobarak '
-console.log(first+second)
+// const first = 'Eid  '
+// const second = ' Mobarak '
+// console.log(first+second)
+
+
