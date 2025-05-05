@@ -46,8 +46,20 @@
 
 
 
-const first =12.13568 ;
-const second =31.22564 ;
-const total= first+second ;
-const totalNumber=parseFloat(total.toFixed(2))
-console.log(totalNumber)
+// const first =12.13568 ;
+// const second =31.22564 ;
+// const total= first+second ;
+// const totalNumber=parseFloat(total.toFixed(2))
+// console.log(totalNumber)
+
+
+
+
+// output  a jokhon holud  dekhabe  oita holo number 
+// aber output  a   jokhon  holud dekhabe  tokhon oita holo je string 
+const first ="12";
+const second =31 ;
+// const total= first+second ;
+// const totalNumber=parseFloat(total.toFixed(2))
+// console.log(totalNumber)
+console.log(first)
