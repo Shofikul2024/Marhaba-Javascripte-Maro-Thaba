@@ -57,9 +57,12 @@
 
 // output  a jokhon holud  dekhabe  oita holo number 
 // aber output  a   jokhon  holud dekhabe  tokhon oita holo je string 
-const first ="12";
-const second =31 ;
+
+// const first ="12";
+// const second =31 ;
 // const total= first+second ;
 // const totalNumber=parseFloat(total.toFixed(2))
 // console.log(totalNumber)
-console.log(first)
+// console.log(first)
+
+
