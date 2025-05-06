@@ -18,15 +18,32 @@
 
 
 
-  function  add ( a,b){
+
+
+//   function  add ( a,b){
+
+// const result = a+b ;
+// return result  ;
+
+
+
+//   }
+
+
+//   const sum = add( 90,10)
+//   console.log(sum)
+
+
+
+//  normal function 
+
+ function add (a,b){
 
 const result = a+b ;
-return result  ;
+return result ;
 
 
+ }
 
-  }
-
-
-  const sum = add( 90,10)
-  console.log(sum)
+ const sum =add(10,200)
+ console.log(sum)
