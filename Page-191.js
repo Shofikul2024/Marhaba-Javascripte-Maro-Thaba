@@ -98,7 +98,94 @@ console.log(sum)
 
 // arrow   function 
 
-const add =(a,b)=> a+b 
-const sum = add(500,1000)
+// const add =(a,b)=> a+b 
+// const sum = add(500,1000)
 
-console.log(sum) 
+// console.log(sum) 
+
+
+
+// arrow  function
+
+
+// const add = (a,b)  => a+b
+// const sum=add(7,9)
+// console.log(sum)
+
+
+
+
+// arrow  function    
+
+
+// const add=( a, b )  => a+b
+// const sum =add(2,3)
+// console.log(sum)
+
+
+
+
+// // arrow function 
+
+
+// const add = ( a,b) => a+b
+// const sum = add (7,10)
+// console.log(sum)
+
+
+
+
+
+// normal   function 
+
+
+// function   add ( a,b){
+// const result =a+b  ;
+
+// return result ;
+
+
+
+// }
+// const sum =add(10,20)
+// console.log(sum) 
+
+
+
+
+// arrow   function  
+
+//  const add = ( a,b)=>a+b  ;
+//  const sum =add(5,8)
+//  console.log(sum)
+
+
+
+
+
+
+
+// normal   function
+
+// function multiply (a,b,c) {
+
+// const result =a*b*c ;
+// return result 
+
+
+// }
+
+// const total=multiply(10,20,30)
+// console.log( total);
+
+
+
+
+
+
+// // arrow   function 
+
+// const add  =( a,b,c) => a*b*c 
+// const resul=add(10,20,30)
+
+// console.log(resul)
