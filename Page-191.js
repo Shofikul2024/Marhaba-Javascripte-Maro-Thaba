@@ -62,7 +62,43 @@
 
 
 // arrow   function  
-const add=(a,b ) => a+b ;
-const sum =add( 200,100)
+// const add=(a,b ) => a+b ;
+// const sum =add( 200,100)
 
-    console.log(sum)
+//     console.log(sum)
+
+
+
+
+
+
+// arrow   function  
+ //  const add =( a,b)=> a+b ;
+//  const sum =add(500,600);
+//  console.log(sum)
+
+
+/*
+//arrow function 
+
+const add =(a,b) => a+b
+const sum = add (10,20)
+console.log(sum)
+
+*/
+
+
+
+
+
+
+
+
+
+
+// arrow   function 
+
+const add =(a,b)=> a+b 
+const sum = add(500,1000)
+
+console.log(sum) 
