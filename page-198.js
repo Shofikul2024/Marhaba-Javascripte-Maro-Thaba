@@ -86,3 +86,69 @@ console.log( phone) ;
 //  017463998687
 
 */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// destructuring 
+
+
+// const actor ={
+
+// name :'ananata' ,
+// age: 30 ,
+// phone: '01478566985' ,
+// money :1246155564
+
+
+
+// }
+
+// const { name , age , money , phone } =actor
+// console.log(name );
+// console.log(age );
+// console.log(money );
+// console.log(phone);
+
+
+
+
+
+// DESTYRUCTURING   PRACTICE   , DESTRUCTURING 
+const actor ={
+
+    name :'ananata' ,
+    age: 30 ,
+    phone: '01478566985' ,
+    money :1246155564
+    
+    
+    
+    }
+    
+
+const { name , age , money , phone } ={
+
+    name :'ananata' ,
+    age: 30 ,
+    phone: '01478566985' ,
+    money :1246155564
+    
+    };
+
+
+console.log(name );
+console.log(age );
+console.log(money );
+console.log(phone);

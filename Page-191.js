@@ -196,6 +196,13 @@ console.log(sum)
 
 // arrow  function 
 
-const division =(a,b) => a/b
-const resul=division (20,5)
-console.log(resul);
+const division =(a,b) => { const div = a/b ;
+    const mul=a*b ;
+const  result=div+mul ;
+return result;
+}
+    
+    const result=division (20,5)
+console.log(result);
+
+
