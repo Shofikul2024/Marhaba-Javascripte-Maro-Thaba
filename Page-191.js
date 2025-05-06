@@ -50,14 +50,19 @@
 
 
 //  normal function   
+// function add ( a,b ){
+// const resul=a+b ;
+// return resul  ;
+// }
+// const sum = add( 200 ,100) 
+// console.log(sum)
 
-function add ( a,b ){
-
-const resul=a+b ;
-return resul  ;
 
 
-}
 
-const sum = add( 200 ,100) 
-console.log(sum)
+
+// arrow   function  
+const add=(a,b ) => a+b ;
+const sum =add( 200,100)
+
+    console.log(sum)
