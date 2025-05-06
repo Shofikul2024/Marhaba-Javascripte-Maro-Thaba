@@ -189,3 +189,13 @@ console.log(sum)
 // const resul=add(10,20,30)
 
 // console.log(resul)
+
+
+
+
+
+// arrow  function 
+
+const division =(a,b) => a/b
+const resul=division (20,5)
+console.log(resul);
