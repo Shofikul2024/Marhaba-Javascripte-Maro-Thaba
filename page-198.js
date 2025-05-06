@@ -101,7 +101,7 @@ console.log( phone) ;
 
 
 
-// destructuring 
+// destructuring  similar  vabe niche   aw  dewya  holo 
 
 
 // const actor ={
@@ -125,30 +125,28 @@ console.log( phone) ;
 
 
 
-// DESTYRUCTURING   PRACTICE   , DESTRUCTURING 
-const actor ={
+// // DESTYRUCTURING   PRACTICE   , DESTRUCTURING 
+// const actor ={
 
-    name :'ananata' ,
-    age: 30 ,
-    phone: '01478566985' ,
-    money :1246155564
+//     name :'ananata' ,
+//     age: 30 ,
+//     phone: '01478566985' ,
+//     money :1246155564
     
-    
-    
-    }
+//       }
     
 
-const { name , age , money , phone } ={
+// const { name , age , money , phone } ={
 
-    name :'ananata' ,
-    age: 30 ,
-    phone: '01478566985' ,
-    money :1246155564
+//     name :'ananata' ,
+//     age: 30 ,
+//     phone: '01478566985' ,
+//     money :1246155564
     
-    };
+//     };
 
 
-console.log(name );
-console.log(age );
-console.log(money );
-console.log(phone);
+// console.log(name );
+// console.log(age );
+// console.log(money );
+// console.log(phone);

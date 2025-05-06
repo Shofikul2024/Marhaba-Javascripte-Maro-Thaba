@@ -35,6 +35,13 @@
 // console.log(pop1)
 
 
-const friends =[ 'balam ' ,' kalam ' , 'salam ' , 'gelam ']
-const pop1 = friends .pop ()
-console.log(pop1)
+// const friends =[ 'balam ' ,' kalam ' , 'salam ' , 'gelam ']
+// const pop1 = friends .pop ()
+// console.log(pop1)
+
+
+
+const person ={ name: "Amit" ,  age:25 } ;
+const { name ,phone ="N/A "}=person ;
+console.log(name) ;
+console.log(phone) ;
