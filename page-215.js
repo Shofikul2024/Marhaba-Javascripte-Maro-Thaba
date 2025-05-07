@@ -95,17 +95,36 @@
 
 
 
-///   practice 
-const numbers = [ 4,5,2,8,10]
-function trippleedAll() {
-const doubled =[] ;
+// ///   practice 
+// const numbers = [ 4,5,2,8,10]
+// function trippleedAll() {
+// const doubled =[] ;
 
-for (const num of numbers) {
+// for (const num of numbers) {
 
-    const value=num*3 ;
-    doubled.push(value)
-}
-return doubled
-}
- console.log(  trippleedAll(numbers) )
+//     const value=num*3 ;
+//     doubled.push(value)
+// }
+// return doubled
+// }
+//  console.log(  trippleedAll(numbers) )
 
+
+
+
+
+
+
+
+// const  numbers=[4,5,2,8,10] ;
+// const result =numbers.map(num=>num*2 )
+// console.log(result)
+
+// const numbers=[4,5,2,8,10] ;
+// const result =numbers.map(num => num*2)
+// console.log(result)  
+
+
+const numbers = [12,10,8,15,7] ;
+const fiveBonus=numbers.map(num => num+5) ;
+console.log(fiveBonus)
