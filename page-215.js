@@ -141,7 +141,22 @@
 
 
 
-const numbers =[4,5,2,8,10 ] ;
-const result =numbers.map(number=>number*3)
+// const numbers =[4,5,2,8,10 ] ;
+// const result =numbers.map(number=>number*3)
 
-console.log(result)
+// console.log(result)
+
+
+
+
+
+// const friends= ['Tom', 'Jhon' ,'Michel','Oliver' ] ;
+// const length=friends.map(frnd=>frnd.length);
+//  console.log(length)
+
+
+
+
+ const friends= ['Tom', 'Jhon' ,'Michel','Oliver' ] ;
+ const  firstLetter=friends.map(frnd=>frnd[0])
+ console.log(firstLetter)
