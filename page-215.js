@@ -36,12 +36,9 @@ const doubled=[] ;
 for (const num of numbers){
    const value=num*2 ;
    doubled.push(value)   ;
-
  }
 return doubled ;
-
 }
-
 console.log( doubleAll(numbers) )
 
 
