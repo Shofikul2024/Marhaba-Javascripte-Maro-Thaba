@@ -125,6 +125,23 @@
 // console.log(result)  
 
 
-const numbers = [12,10,8,15,7] ;
-const fiveBonus=numbers.map(num => num+5) ;
-console.log(fiveBonus)
+// const numbers = [12,10,8,15,7] ;
+// const fiveBonus=numbers.map(num => num+5) ;
+// console.log(fiveBonus)
+
+
+
+
+
+
+// const numbers = [12,10,8,15,7] ;
+// const halves=numbers.map(num => num/2) ;
+// console.log(halves)
+ 
+
+
+
+const numbers =[4,5,2,8,10 ] ;
+const result =numbers.map(number=>number*3)
+
+console.log(result)
