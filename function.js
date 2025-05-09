@@ -37,3 +37,10 @@
 // result = multiply( 20,6)
 
 // console.log(result)
+
+function dosomething(number){
+
+
+console.log(this);
+}
+dosomething() ;
