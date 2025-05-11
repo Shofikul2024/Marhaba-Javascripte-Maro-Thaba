@@ -44,3 +44,22 @@ function dosomething(number){
 console.log(this);
 }
 dosomething() ;
+
+// // practice 
+
+
+// // function multiply (num1 , num2) {
+// // const result= num1*num2 ;
+// // return result
+
+// // }
+// // result = multiply( 20,6)
+
+// // console.log(result)
+
+// function dosomething(number){
+
+
+// console.log(this);
+// }
+// dosomething() ;
