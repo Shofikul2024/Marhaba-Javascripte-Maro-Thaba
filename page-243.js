@@ -43,11 +43,7 @@
 */
 
 
-
-
-
-
-const drink =" water" ;
+const drink ="   water" ;
 const liquid ="water" ;
 
 
