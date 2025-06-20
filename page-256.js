@@ -18,11 +18,11 @@
 
 let p= {
 
-    job:'web developeer'
+    job:'web developer'
 
 };
 
-let q=p-0 ;
+let q=p ;
 console.log(p,q);
-q.job='front-end developer' p;
+q.job='front-end developer' ;
 console.log(p,q);
