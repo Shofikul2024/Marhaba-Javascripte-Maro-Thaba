@@ -35,3 +35,11 @@ console.log(digitNumber)
 const weight =38 ;
 const price =760 ;
 const balance =1865 ;
+
+
+
+
+console.log(403)
+
+const money = 835 ;
+console.log(money)
