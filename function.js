@@ -38,12 +38,12 @@
 
 // console.log(result)
 
-function dosomething(number){
+// function dosomething(number){
 
 
-console.log(this);
-}
-dosomething() ;
+// console.log(this);
+// }
+// dosomething() ;
 
 // // practice 
 
@@ -63,3 +63,18 @@ dosomething() ;
 // console.log(this);
 // }
 // dosomething() ;
+
+
+
+
+
+function add (x,y ){
+
+const result=x+y
+return result 
+
+
+}
+
+const sum=add(10,20)
+console.log(sum)
