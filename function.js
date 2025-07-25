@@ -131,6 +131,20 @@
 
 
 // arrow fun
-const mul=(a,b)=>(a*b)
-const results=mul(5,10)
-console.log(results)
+// const mul=(a,b)=>(a*b)
+// const results=mul(5,10)
+// console.log(results)
+
+
+
+
+// const div =(a,b)=>a/b
+// const result=div(100,20)
+// console.log(result)
+
+
+
+
+const add4=(a,b,c,d)=>(a+b+c+d)
+const result=add4(10,20,30,40)
+console.log(result)
