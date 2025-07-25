@@ -68,13 +68,27 @@
 
 
 
-function add (x,y ){
+// function add (x,y ){
 
-const result=x+y
-return result 
+// const result=x+y
+// return result 
+
+
+// }
+
+// const sum=add(10,20)
+// console.log(sum)
+
+
+
+
+function sub(a,b){
+
+const result=a-b
+return result
 
 
 }
 
-const sum=add(10,20)
-console.log(sum)
+const total=sub(50,30)
+console.log(total)
