@@ -115,6 +115,22 @@
 // arrrow function 
 
 
-const add3=(a,b)=>a+b;
-const sum=add3(50,30)
-console.log(sum);
+// const add3=(a,b)=>a+b;
+// const sum=add3(50,30)
+// console.log(sum);
+
+
+
+// arrow  function 
+
+
+// const add3=(a,b)=>a-b
+// const result=add3(100,50)
+// console.log(result)
+
+
+
+// arrow fun
+const mul=(a,b)=>(a*b)
+const results=mul(5,10)
+console.log(results)
