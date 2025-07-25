@@ -99,11 +99,11 @@
 
 // general function but sort
 
-const add2=function(a,b){
-return a+b
-}
-const sum=add2(10,50)
-console.log(sum);
+// const add2=function(a,b){
+// return a+b
+// }
+// const sum=add2(10,50)
+// console.log(sum);
 
 
 
@@ -115,4 +115,6 @@ console.log(sum);
 // arrrow function 
 
 
-
+const add3=(a,b)=>a+b;
+const sum=add3(50,30)
+console.log(sum);
