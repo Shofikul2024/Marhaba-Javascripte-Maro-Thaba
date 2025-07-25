@@ -82,13 +82,37 @@
 
 
 
-function sub(a,b){
+// function sub(a,b){
 
-const result=a-b
-return result
+// const result=a-b
+// return result
 
 
+// }
+
+// const total=sub(50,30)
+// console.log(total)
+
+
+
+
+
+// general function but sort
+
+const add2=function(a,b){
+return a+b
 }
+const sum=add2(10,50)
+console.log(sum);
 
-const total=sub(50,30)
-console.log(total)
+
+
+
+
+
+
+
+// arrrow function 
+
+
+
