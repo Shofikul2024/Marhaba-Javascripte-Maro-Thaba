@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pleasing Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="calculator-container">
+        <div class="calculator">
+            <div class="top-bar">
+                <button id="theme-toggle" title="Toggle Theme">🌙</button>
+                <span class="title">Advanced Calculator</span>
+            </div>
+            <input type="text" id="display" class="display" disabled>
+            <div class="memory-bar">
+                <button onclick="memory('MC')" title="Memory Clear">MC</button>
+                <button onclick="memory('MR')" title="Memory Recall">MR</button>
+                <button onclick="memory('M+')" title="Memory Add">M+</button>
+                <button onclick="memory('M-')" title="Memory Subtract">M-</button>
+            </div>
+            <div class="buttons">
+                <button onclick="press('(')">(</button>
+                <button onclick="press(')')">)</button>
+                <button onclick="press('sqrt(')" class="sci">√</button>
+                <button onclick="press('log(')" class="sci">log</button>
+                <button onclick="press('sin(')" class="sci">sin</button>
+                <button onclick="press('cos(')" class="sci">cos</button>
+                <button onclick="press('tan(')" class="sci">tan</button>
+                <button onclick="press('/')" class="operator">÷</button>
+                <button onclick="press('7')">7</button>
+                <button onclick="press('8')">8</button>
+                <button onclick="press('9')">9</button>
+                <button onclick="press('*')" class="operator">×</button>
+                <button onclick="press('4')">4</button>
+                <button onclick="press('5')">5</button>
+                <button onclick="press('6')">6</button>
+                <button onclick="press('-')" class="operator">−</button>
+                <button onclick="press('1')">1</button>
+                <button onclick="press('2')">2</button>
+                <button onclick="press('3')">3</button>
+                <button onclick="press('+')" class="operator">+</button>
+                <button onclick="press('0')">0</button>
+                <button onclick="press('.')">.</button>
+                <button onclick="clearDisplay()" class="clear">C</button>
+                <button onclick="calculate()" class="equals">=</button>
+            </div>
+            <div class="history">
+                <h3>History</h3>
+                <ul id="history-list"></ul>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

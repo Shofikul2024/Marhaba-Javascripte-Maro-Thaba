@@ -2,10 +2,13 @@
 // const second = 'tobarak '
 // console.log(first+second)
 
-// practice 
+ 
 
 // const first = 'Eid  '
 // const second = ' Mobarak '
 // console.log(first+second)
 
 
+console.log('shofikul islam')
+console.log('shofikul islam')
+console.log('shofikul islam')

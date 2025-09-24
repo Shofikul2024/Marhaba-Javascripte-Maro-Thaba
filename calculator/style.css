@@ -1,0 +1,223 @@
+body {
+    background: linear-gradient(135deg, #f8ffae 0%, #43c6ac 100%);
+    min-height: 100vh;
+    margin: 0;
+    font-family: 'Segoe UI', 'Roboto', Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.5s;
+}
+
+.calculator-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.calculator {
+    background: rgba(255, 255, 255, 0.98);
+    border-radius: 28px;
+    box-shadow: 0 8px 32px rgba(60, 60, 120, 0.18);
+    padding: 36px 28px 24px 28px;
+    width: 370px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+.top-bar {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 12px;
+}
+.top-bar .title {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #43c6ac;
+    letter-spacing: 1px;
+}
+#theme-toggle {
+    background: #e0e7ef;
+    border: none;
+    border-radius: 50%;
+    font-size: 1.3rem;
+    width: 36px;
+    height: 36px;
+    cursor: pointer;
+    transition: background 0.2s;
+    margin-right: 8px;
+}
+#theme-toggle:active {
+    background: #43c6ac;
+    color: #fff;
+}
+.memory-bar {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.memory-bar button {
+    background: #f0f4f8;
+    color: #43c6ac;
+    border: none;
+    border-radius: 8px;
+    padding: 6px 12px;
+    font-size: 1rem;
+    margin-right: 4px;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+.memory-bar button:last-child {
+    margin-right: 0;
+}
+.memory-bar button:active {
+    background: #43c6ac;
+    color: #fff;
+}
+
+.display {
+    width: 100%;
+    height: 48px;
+    font-size: 2rem;
+    border: none;
+    border-radius: 12px;
+    margin-bottom: 24px;
+    background: #f0f4f8;
+    text-align: right;
+    padding: 0 16px;
+    box-shadow: 0 2px 8px rgba(60, 60, 120, 0.08);
+}
+
+.buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 14px;
+    width: 100%;
+    margin-bottom: 18px;
+}
+
+button {
+    height: 48px;
+    font-size: 1.25rem;
+    border: none;
+    border-radius: 12px;
+    background: #e0e7ef;
+    color: #333;
+    cursor: pointer;
+    transition: background 0.2s, box-shadow 0.2s;
+    box-shadow: 0 2px 8px rgba(60, 60, 120, 0.06);
+}
+button:active {
+    background: #c3e6cb;
+}
+button.operator {
+    background: #43c6ac;
+    color: #fff;
+}
+button.sci {
+    background: #b3e5fc;
+    color: #1565c0;
+    font-weight: 500;
+}
+button.sci:active {
+    background: #1565c0;
+    color: #fff;
+}
+button.clear {
+    background: #ffb3b3;
+    color: #fff;
+}
+button.equals {
+    background: #ffd700;
+    color: #333;
+    grid-column: span 4;
+    font-weight: bold;
+    box-shadow: 0 2px 12px rgba(255, 215, 0, 0.18);
+}
+.history {
+    width: 100%;
+    background: #f0f4f8;
+    border-radius: 12px;
+    margin-top: 18px;
+    padding: 10px 14px;
+    box-shadow: 0 2px 8px rgba(60, 60, 120, 0.06);
+    max-height: 120px;
+    overflow-y: auto;
+}
+.history h3 {
+    margin: 0 0 6px 0;
+    font-size: 1rem;
+    color: #43c6ac;
+    font-weight: 600;
+}
+#history-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: 0.95rem;
+    color: #333;
+}
+#history-list li {
+    margin-bottom: 4px;
+    padding-bottom: 2px;
+    border-bottom: 1px solid #e0e7ef;
+}
+#history-list li:last-child {
+    border-bottom: none;
+}
+body.dark {
+    background: linear-gradient(135deg, #232526 0%, #414345 100%);
+}
+.dark .calculator {
+    background: rgba(34, 40, 49, 0.98);
+    box-shadow: 0 8px 32px rgba(34, 40, 49, 0.18);
+}
+.dark .display {
+    background: #232526;
+    color: #ffd700;
+}
+.dark .top-bar .title {
+    color: #ffd700;
+}
+.dark .memory-bar button {
+    background: #232526;
+    color: #ffd700;
+}
+.dark .memory-bar button:active {
+    background: #ffd700;
+    color: #232526;
+}
+.dark .buttons button {
+    background: #232526;
+    color: #ffd700;
+}
+.dark .buttons button.operator {
+    background: #ffd700;
+    color: #232526;
+}
+.dark .buttons button.sci {
+    background: #1565c0;
+    color: #ffd700;
+}
+.dark .buttons button.sci:active {
+    background: #ffd700;
+    color: #1565c0;
+}
+.dark .buttons button.clear {
+    background: #ffb3b3;
+    color: #232526;
+}
+.dark .buttons button.equals {
+    background: #ffd700;
+    color: #232526;
+}
+.dark .history {
+    background: #232526;
+    color: #ffd700;
+}
+*** End Patch
